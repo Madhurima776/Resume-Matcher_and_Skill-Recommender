@@ -63,5 +63,5 @@ npm start
 - Job recommendation system
 
 ## Author
-Nissy Madhurima  
+Nissy Madhurima Junnu 
 B.Tech Student

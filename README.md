@@ -137,20 +137,20 @@ npm start
 ## Screenshots
 
 ### Register Page
-(Add screenshot here)<img width="1866" height="839" alt="Screenshot 2026-03-10 105943" src="https://github.com/user-attachments/assets/ee1d72f1-b6fb-4d15-919d-f7a50152a3d3" />
+<img width="1866" height="839" alt="Screenshot 2026-03-10 105943" src="https://github.com/user-attachments/assets/ee1d72f1-b6fb-4d15-919d-f7a50152a3d3" />
 
 
 
 ### Login Page
-(Add screenshot here)<img width="819" height="743" alt="Screenshot 2026-03-10 110128" src="https://github.com/user-attachments/assets/4d804b59-deac-4447-a174-18aeead63260" />
+<img width="819" height="743" alt="Screenshot 2026-03-10 110128" src="https://github.com/user-attachments/assets/4d804b59-deac-4447-a174-18aeead63260" />
 
 
 ### Dashboard
-(Add screenshot here)<img width="1897" height="732" alt="Screenshot 2026-03-10 110952" src="https://github.com/user-attachments/assets/1c7189db-c8ea-466a-85b0-8b587cb45bd3" />
+<img width="1897" height="732" alt="Screenshot 2026-03-10 110952" src="https://github.com/user-attachments/assets/1c7189db-c8ea-466a-85b0-8b587cb45bd3" />
 
 
 ### Skill Match Result
-(Add screenshot here)<img width="1920" height="925" alt="Screenshot 2026-03-06 222657" src="https://github.com/user-attachments/assets/631e22e2-610e-41d6-a892-785c514807c2" />
+<img width="1920" height="925" alt="Screenshot 2026-03-06 222657" src="https://github.com/user-attachments/assets/631e22e2-610e-41d6-a892-785c514807c2" />
 
 
 ---

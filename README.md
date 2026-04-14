@@ -156,17 +156,12 @@ npm start
 ---
 
 ## Live Demo
-[https://your-project-link.com](http://localhost:5173/)
-```
-
----
+[http://localhost:5173/]
 
 ## Future Improvements
 - AI-based resume improvement suggestions
 - Job recommendation system
 - Cloud deployment (AWS / Azure)
-
----
 
 ## Author
 **Nissy Madhurima**  
